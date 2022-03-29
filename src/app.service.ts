@@ -8,10 +8,6 @@ export class AppService {
   }
 
   getObject():any{
-    let objeto ={
-      id:1,
-      nome:'lucas'
-    }
-    return objeto
+ 
   }
 }
